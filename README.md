@@ -1,3 +1,4 @@
 # fastfood
 Pizza
 Pasta
+Burger
