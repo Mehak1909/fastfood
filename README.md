@@ -7,3 +7,5 @@ Veg Rap
 TimBits
 Taco Bell
 Popeyes
+Onion Rings
+Cheeseburger
