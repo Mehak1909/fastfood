@@ -2,3 +2,4 @@
 Pizza
 Pasta
 Burger
+Fries
